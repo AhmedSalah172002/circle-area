@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace AhmedSalah172002\CircleArea\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class CircleAreaCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'circle-area';
 
     public $description = 'My command';
 
